@@ -1,0 +1,78 @@
+@font-face
+{
+    font-family: "badass";
+    src: url(font/badass.ttf);
+}
+@font-face
+{
+    font-family: "cool";
+    src: url(font/cool.ttf);
+}
+
+body
+{
+    background-color: bisque;
+}
+
+.wrapper
+{
+    display:inline;
+  color: white;
+  text-align: center;
+  margin: auto auto;
+}
+
+.badass_title
+{
+    text-align: center;
+    color: red;
+    font-family: "badass";
+    font-size: 600%;
+}
+.intro
+{
+    font-size: 150%;
+    text-align: center;
+    color: blueviolet;
+}
+.img
+{
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+}
+
+h2
+{
+    text-align: center;
+    color: blueviolet;
+}
+.step_1
+{
+    font-size: 250%;
+    font-family: "cool";
+    color: red;
+    text-align: center;
+    
+}
+
+.my_secret
+{
+    text-align: center;
+    font-family: "cool";
+    font-size: 250%;
+    color: black;
+}
+
+.intro_2
+{
+    text-align: center;
+    font-style: italic;
+    font-size: 130%;
+}
+
+.end
+{
+    width: 200%;
+    color: red;
+}
